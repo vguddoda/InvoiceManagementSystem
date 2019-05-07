@@ -1,0 +1,35 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.sap.com"
+    },
+    "jhipsterVersion": "5.8.1",
+    "applicationType": "microservice",
+    "baseName": "InvoiceManagementSystem",
+    "packageName": "com.sap.com",
+    "packageFolder": "com/sap/com",
+    "serverPort": "8059",
+    "authenticationType": "jwt",
+    "cacheProvider": "no",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "mongodb",
+    "devDatabaseType": "mongodb",
+    "prodDatabaseType": "mongodb",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "gradle",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "OWE3ZDg4ZDYzMGFhZjhmODU3Y2YxZGMwMDM4NTMwMTU5MWU2ZDE2MTVjYzc2NDNmZDI4MmFlZGNhMmY3NzZmNzJkMWQ5NDVhM2M5ZWFiMTMwYmUyMTFjMDQ1MjU2NTBjNDEwMWNmMTE1OTdmOGNmMWM3ZWY5NjZlY2EwNzE0MDI=",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "clientPackageManager": "npm",
+    "skipClient": true,
+    "skipUserManagement": true
+  }
+}
